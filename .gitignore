@@ -1,0 +1,16 @@
+venv/
+
+# Python compilation files (Bytecode)
+# The ** at the start makes it ignore these files in ALL subdirectories
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Packaging and build artifacts
+build/
+dist/
+*.egg-info/
+
+# Testing and IDE caches
+.pytest_cache/
+.vscode/
