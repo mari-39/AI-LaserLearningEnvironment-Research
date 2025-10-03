@@ -1,7 +1,7 @@
 venv/
+.venv/
 
 # Python compilation files (Bytecode)
-# The ** at the start makes it ignore these files in ALL subdirectories
 **/__pycache__/
 *.pyc
 *.pyo
